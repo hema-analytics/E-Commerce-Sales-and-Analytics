@@ -69,6 +69,14 @@ Key Learnings
 - Dashboard creation using Excel and Power BI.
 - Converting raw data into meaningful business insights.
 
+Dashboard Previews
+
+Excel Dashboard
+![Excel Dashboard](Excel_Dashboard.png)
+
+Power BI Dashboard
+![Power BI Dashboard](PowerBI_Dashboard.png)
+
 Author
 Hema Latha
 
